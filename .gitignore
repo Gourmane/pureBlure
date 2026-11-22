@@ -1,0 +1,9 @@
+.venv/
+.local-tools/
+.local-runtime/
+__pycache__/
+*.part.mp4
+
+# Local handoff and generated demo exports
+/AGENT_GUIDE.md
+/samples/demo-input_blurred*.mp4
